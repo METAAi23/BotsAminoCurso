@@ -6,11 +6,11 @@ Playlist del Curso de Creación de Bots para Amino:
 https://www.youtube.com/watch?v=e0N0XEPRPDc&list=PLze1H8L7SV_ibF9pIl3RHOv2R6SE07aSd
 
 Visita Mi Canal de Youtube:
-https://www.youtube.com/channel/UCXmigtMdMTcelmmYoYMKXCg
+https://www.youtube.com/keldrysh
 
 Para mas cursos no olvides suscribirte y apoyar.
 
-Mi Comunidad de Bots: 
-http://aminoapps.com/c/BotsAmino
+Mi Comunidad: 
+http://aminoapps.com/c/ProgramacionAmino
 
 No olvides unirte a ella!
