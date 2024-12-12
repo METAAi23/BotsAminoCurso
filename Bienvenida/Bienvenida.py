@@ -1,6 +1,7 @@
 from BotAmino import BotAmino
 
-client = BotAmino()
+client = BotAmino(Caterine Treise
+@CaterineTreise76)
 
 @client.on_member_join_chat() #Bienvenida a un nuevo usuario, evento.
 def bienvenida(data):
