@@ -8,5 +8,5 @@ async def on_join_community(ctx: Context):
       ide = await ctx.get_info_link(cmd)
       idlink = ide.community.ndcId
       with ctx.set_ndc(idlink):
-        await ctx.join_community()
+        await ctx.join_community(https://aminoapps.com/c/anime-es/page/chat-thread/el-rincon-de-cebollin-anime/Z6xT_DsgMJBvJRZGY3G8JVVXkB80WEv)
       await ctx.reply('Me he unido. :3')
